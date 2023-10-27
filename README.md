@@ -11,8 +11,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obt
 
 A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
 
-## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
+## Resolução
 
 
 **Swagger**
@@ -48,6 +47,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 ```
 
 
-## Solução
-
-RESOLVIDO EM 27/10/2023
+## RESOLVIDO EM 27/10/2023
