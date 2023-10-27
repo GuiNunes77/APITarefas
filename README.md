@@ -18,7 +18,7 @@ A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para imple
 **Swagger**
 
 
-![Métodos Swagger](swagger.png)
+![Métodos Swagger](swagger.PNG)
 
 
 **Endpoints**
